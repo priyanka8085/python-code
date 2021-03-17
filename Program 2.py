@@ -1,10 +1,5 @@
-def alphapt(n):
-
-     
-
-    # initializing value corresponding to 'A' 
-
-    # ASCII value
+def alphapt(n):  
+    # initializing ASCII value corresponding to 'A' 
 
     num = 65
  
@@ -49,5 +44,4 @@ def alphapt(n):
  
 # Driver Code
 
-n = 5
-alphapt(n)
+alphapt(5)
